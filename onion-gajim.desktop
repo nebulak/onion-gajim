@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OnionGajim
+Categories=Network;InstantMessaging;GTK;GNOME;
+Keywords=chat;messaging;tor;im;jabber;xmpp;bonjour;voip;
+Comment=
+Exec=onion-gajim
+Icon=gajim
+Terminal=true
+Type=Application
