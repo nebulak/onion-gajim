@@ -5,5 +5,5 @@ Keywords=chat;messaging;tor;im;jabber;xmpp;bonjour;voip;
 Comment=
 Exec=onion-gajim
 Icon=gajim
-Terminal=false
+Terminal=true
 Type=Application
