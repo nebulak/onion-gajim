@@ -5,4 +5,4 @@ if [ ! -f /usr/local/bin/orjail ]; then
 fi
 
 cp ./onion-gajim.desktop /usr/share/applications/onion-gajim.desktop
-#cp ./onion-gajim /usr/local/bin/onion-gajim
+cp ./onion-gajim /usr/local/bin/onion-gajim
